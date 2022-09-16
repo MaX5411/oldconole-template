@@ -1,0 +1,16 @@
+{
+    "$schema": "http://json.schemastore.org/global",
+    "author": "Max Ivashchenko",
+    "classifications": [
+        "Console"
+    ],
+    "identity": "OldConsoleApp",
+    "name": "Old console template for .NET6",
+    "shortName": "oldconsole",
+    "preferNameDirectory": true,
+    "sourceName": "Oldconsole",
+    "tags": {
+        "language": "C#",
+        "type": "project"
+    }
+}
